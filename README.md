@@ -48,7 +48,53 @@ Static site generators are an alternative to `content management systems (CMS)` 
 
 `2.19` **Brunch: http://brunch.io** - **_OpenSource-MIT `AnyJS`: https://github.com/brunch/brunch_** - _An ultra-fast HTML5 build tool. Capable of static site generation using whatever templating engine you choose._
 
-`2.20` **Publii: https://getpublii.com** - **_OpenSource-MIT `GPL-3.0`: https://github.com/GetPublii/Publii_** - _Publii is a desktop-based CMS for Windows, Mac and Linux that makes creating static websites fast and hassle-free, even for beginners._
+`2.20` **Publii: https://getpublii.com** - **_OpenSource-MIT `EJS`: https://github.com/GetPublii/Publii_** - _Publii is a desktop-based CMS for Windows, Mac and Linux that makes creating static websites fast and hassle-free, even for beginners._
+
+`2.21` **Harp: http://harpjs.com** - **_OpenSource-MIT `EJS`: https://github.com/assemble/assemble_** - _Harp is a static web server that also serves Jade, Markdown, EJS, Less, Stylus, Sass, and CoffeeScript as HTML, CSS, and JavaScript without any configuration._
+
+`2.22` **Assemble: http://assemble.io** - **_OpenSource-MIT `EJS`: https://github.com/sintaxi/harp_** - _Static site generator for Grunt.js, Yeoman and Node.js. Used by Zurb Foundation, Zurb Ink, H5BP/Effeckt, Less.js / lesscss.org, Topcoat, Web Experience Toolkit, and hundreds of other projects to build sites, themes, components, documentation, blogs and gh-pages._
+
+`2.23` **Assemble: http://assemble.io** - **_OpenSource-MIT `Handlebars`: https://github.com/sintaxi/harp_** - _Static site generator for Grunt.js, Yeoman and Node.js. Used by Zurb Foundation, Zurb Ink, H5BP/Effeckt, Less.js / lesscss.org, Topcoat, Web Experience Toolkit, and hundreds of other projects to build sites, themes, components, documentation, blogs and gh-pages._
+
+`2.24` **Phenomic: https://phenomic.io** - **_OpenSource-MIT `React`: https://github.com/phenomic/phenomic_** - _Modern static website generator for creating dynamic websites using React components._
+
+`2.25` **HubPress: http://hubpress.github.io** - **_OpenSource-MIT `Handlebars`: https://github.com/HubPress/hubpress.io_** - _HubPress is a static site generator written in JavaScript, powered by Vue.js, Asciidoctor and GitHub._
+
+`2.26` **Scully: https://scully.io** - **_OpenSource-MIT `Angular`: https://github.com/scullyio/scully_** - _The best way to build the fastest Angular apps. Scully is a static site generator for Angular projects looking to embrace the JAMStack._
+
+`2.27` **Saber: https://saber.land** - **_OpenSource-MIT `Vue`: https://github.com/saberland/saber_** - _Saber is a simple yet powerful framework for building modern static websites._
+
+`2.28` **Elder.js: https://elderguide.com/tech/elderjs/** - **_OpenSource-MIT `Svelte`: https://github.com/elderjs/elderjs_** - _Elder.js was designed from the ground up by a small team of SEOs and developers to solve the unique challenges and complexities of building flagship SEO sites with 10-100k+ pages._
+
+`2.29` **Routify: https://routify.dev** - **_OpenSource-MIT `Svelte`: https://github.com/roxiness/routify_** - _Routify offers a great developer experience to build the routes for your Svelte app._
+
+`2.30` **Silex: http://www.silex.me** - **_OpenSource-MIT `HTML`: https://github.com/silexlabs/Silex_** - _With Silex website builder, web designers create static HTML websites online._
+
+`2.31` **Lume: https://lume.land** - **_OpenSource-MIT `JSX`: https://github.com/lumeland/lume_** - _Lume is the galician word for fire, but also a (yet another) static site generator for Deno._
+
+`2.32` **Wheat: https://github.com/creationix/wheat** - **_OpenSource-MIT `Custom`: https://github.com/creationix/wheat_** - _Wheat is a blogging engine that reads a git repo full of markdown articles and presents them as a website._
+
+`2.33` **Punch: http://laktek.github.io/punch/** - **_OpenSource-MIT `Mustache`: https://github.com/laktek/punch_** - _Punch is a simple, intuitive web publishing framework that will delight both designers and developers._
+
+`2.34` **iles: https://iles.pages.dev** - **_OpenSource-MIT `Vue`: https://github.com/ElMassimo/iles_** - _îles is a static-site generator with great support for partial hydration, supporting all major frameworks._
+
+`2.35` **Flatmarket: https://christophercliff.com/flatmarket/** - **_OpenSource-MIT `AnyJS`: https://github.com/christophercliff/flatmarket_** - _Flatmarket is a free, open source e-commerce platform for static websites. It is reliable, secure, and inexpensive to operate._
+
+`2.36` **Log4brains: https://github.com/thomvaill/log4brains** - **_OpenSource-MIT `Markdown`: https://github.com/thomvaill/log4brains_** - _Log4brains is a docs-as-code knowledge base for your development and infrastructure projects. It enables you to write and manage Architecture Decision Records (ADR) right from your IDE, and to publish them automatically as a static website._
+
+`2.37` **simple: http://isnowfy.github.io/simple/** - **_OpenSource-MIT `Markdown`: https://github.com/isnowfy/simple_** - _Simple is a static blog generator with a single static page._
+
+`2.38` **Docpress: http://docpress.github.io** - **_OpenSource-MIT `Markdown`: https://github.com/docpress/docpress_** - _Docpress generates websites from your project's basic documentation; that is, at the very least, a README.md file._
+
+`2.39` **Cabin: http://www.cabinjs.com** - **_OpenSource-MIT `EJS`: https://github.com/CabinJS/Cabin_** - _Cabin's goal is to be a static site generator that encourages designers and developers to make themes and share them with the open source community._
+
+`2.40` **Enduro.js: http://endurojs.com** - **_OpenSource-MIT `Handlebars`: https://github.com/gottwik/enduro_** - _Clicking is lame. With enduro.js, exactly zero clicks are necessary to build the whole project._
+
+`2.41` **Abell: https://abelljs.org** - **_OpenSource-MIT `Abell`: https://github.com/abelljs/abell_** - _Abell is a low-level static-site-generator built on top of Vite to give high flexibility while keeping the setup closer to vanilla HTML, CSS, JS._
+
+`2.41` **Cuttlebelle: https://cuttlebelle.com** - **_OpenSource-GPL3 `React`: https://github.com/cuttlebelle/cuttlebelle_** - _The react static site generator that separates editing and code concerns._
+
+`2.42` **Spike: https://cuttlebelle.com** - **_OpenSource-GPL3 `React`: https://github.com/cuttlebelle/cuttlebelle_** - _The react static site generator that separates editing and code concerns._
 
 ### 3. Typescript Framework
 
