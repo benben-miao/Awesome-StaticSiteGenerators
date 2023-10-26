@@ -92,9 +92,9 @@ Static site generators are an alternative to `content management systems (CMS)` 
 
 `2.41` **Abell: https://abelljs.org** - **_OpenSource-MIT `Abell`: https://github.com/abelljs/abell_** - _Abell is a low-level static-site-generator built on top of Vite to give high flexibility while keeping the setup closer to vanilla HTML, CSS, JS._
 
-`2.41` **Cuttlebelle: https://cuttlebelle.com** - **_OpenSource-GPL3 `React`: https://github.com/cuttlebelle/cuttlebelle_** - _The react static site generator that separates editing and code concerns._
+`2.42` **Cuttlebelle: https://cuttlebelle.com** - **_OpenSource-GPL3 `React`: https://github.com/cuttlebelle/cuttlebelle_** - _The react static site generator that separates editing and code concerns._
 
-`2.42` **Spike: https://cuttlebelle.com** - **_OpenSource-GPL3 `React`: https://github.com/cuttlebelle/cuttlebelle_** - _The react static site generator that separates editing and code concerns._
+`2.43` **Spike: https://cuttlebelle.com** - **_OpenSource-GPL3 `React`: https://github.com/cuttlebelle/cuttlebelle_** - _The react static site generator that separates editing and code concerns._
 
 ### 3. Typescript Framework
 
