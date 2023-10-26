@@ -94,9 +94,21 @@ Static site generators are an alternative to `content management systems (CMS)` 
 
 `2.42` **Cuttlebelle: https://cuttlebelle.com** - **_OpenSource-GPL3 `React`: https://github.com/cuttlebelle/cuttlebelle_** - _The react static site generator that separates editing and code concerns._
 
-`2.43` **Spike: https://cuttlebelle.com** - **_OpenSource-GPL3 `React`: https://github.com/cuttlebelle/cuttlebelle_** - _The react static site generator that separates editing and code concerns._
+`2.43` **Spike: https://cuttlebelle.com** - **_OpenSource-MIT `React`: https://github.com/cuttlebelle/cuttlebelle_** - _The react static site generator that separates editing and code concerns._
 
 ### 3. Typescript Framework
+
+`3.1` **fresh: https://github.com/denoland/fresh** - **_OpenSource-MIT `next-sh`: https://github.com/denoland/fresh_** - _Fresh is a next generation web framework, built for speed, reliability, and simplicity. Some stand out features._
+
+`3.2` **Scully: https://scully.io** - **_OpenSource-MIT `Angular`: https://github.com/scullyio/scully_** - _The best way to build the fastest Angular apps. Scully is a static site generator for Angular projects looking to embrace the JAMStack._
+
+`3.3` **Analog: https://analogjs.org** - **_OpenSource-MIT `Angular`: https://github.com/analogjs/analog_** - _Analog is a fullstack meta-framework for building applications and websites with Angular, powered by Vite._
+
+`3.4` **iles: https://iles.pages.dev** - **_OpenSource-MIT `Vue`: https://github.com/ElMassimo/iles_** - _îles is a static-site generator with great support for partial hydration, supporting all major frameworks._
+
+`3.5` **iles: https://iles.pages.dev** - **_OpenSource-MIT `Vue`: https://github.com/ElMassimo/iles_** - _îles is a static-site generator with great support for partial hydration, supporting all major frameworks._
+
+`3.6` **Capri: https://capri.build** - **_OpenSource-MIT `React`: https://github.com/capri-js/capri_** - _Capri is a static site generator with a component-based workflow. Websites built with Capri ship zero KB of JavaScript to the browser by default._
 
 ### 4. PHP Framework
 
