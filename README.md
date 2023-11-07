@@ -134,6 +134,18 @@ Static site generators are an alternative to `content management systems (CMS)` 
 
 ### 5. Python Framework
 
+`5.1` **MkDocs: http://www.mkdocs.org** - **_OpenSource-BSD3 `Jinja2`: https://github.com/mkdocs/mkdocs_** - _MkDocs is a fast, simple and downright gorgeous static site generator that's geared towards building project documentation. Documentation source files are written in Markdown, and configured with a single YAML configuration file._
+
+`5.2` **Pelican: http://blog.getpelican.com** - **_OpenSource-AGPL3 `Jinja2`: https://github.com/getpelican/pelican_** - _Pelican is a static site generator, written in Python._
+
+`5.3` **Sphinx: http://www.sphinx-doc.org** - **_OpenSource-BSD2 `Jinja2`: https://github.com/sphinx-doc/sphinx_** - _Sphinx is a tool that makes it easy to create intelligent and beautiful documentation, written by Georg Brandl and licensed under the BSD license._
+
+`5.4` **Lektor: https://www.getlektor.com** - **_OpenSource-BSD3 `Jinja2`: https://github.com/lektor/lektor_** - _Lektor is a static content management system that runs offline, written in Python._
+
+`5.5` **Nikola: http://www.getnikola.com** - **_OpenSource-MIT `Jinja2`: https://github.com/getnikola/nikola_** - _Nikola is a Static Site and Blog Generator._
+
+`5.6` **Frozen-Flask: https://pythonhosted.org/Frozen-Flask/** - **_OpenSource-BSD3 `Jinja2`: https://github.com/Frozen-Flask/Frozen-Flask_** - _Frozen-Flask freezes a Flask application into a set of static files. It works by simulating requests at the WSGI level and writing the responses to aptly named files._
+
 ### 6. R Framework
 
 ### 7. GO Framework
