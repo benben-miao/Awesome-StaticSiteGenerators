@@ -198,8 +198,6 @@ Static site generators are an alternative to `content management systems (CMS)` 
 
 `8.7` **Awestruct: http://awestruct.org** - **_OpenSource-MIT `Haml`: https://github.com/awestruct/awestruct_** - _Awestruct is a framework for creating static HTML sites, inspired by the Jekyll utility in the same genre._
 
-`8.7` **Awestruct: http://awestruct.org** - **_OpenSource-MIT `Haml`: https://github.com/awestruct/awestruct_** - _Awestruct is a framework for creating static HTML sites, inspired by the Jekyll utility in the same genre._
-
 ### 9. Rust Framework
 
 ### 10. Scala Framwork
