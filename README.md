@@ -112,6 +112,24 @@ Static site generators are an alternative to `content management systems (CMS)` 
 
 ### 4. PHP Framework
 
+`4.1` **Jigsaw: https://jigsaw.tighten.com** - **_OpenSource-MIT `Blade`: https://github.com/tighten/jigsaw_** - _Simple static sites with Laravel’s Blade._
+
+`4.2` **Sculpin: https://sculpin.io** - **_OpenSource-MIT `Twig`: https://github.com/sculpin/sculpin_** - _Sculpin — Static Site Generator._
+
+`4.3` **WP2Static: https://wp2static.com** - **_OpenSource-Unlicense `PHP`: https://github.com/elementor/wp2static_** - _WordPress static site generator for security, performance and cost benefits._
+
+`4.4` **Couscous: http://couscous.io** - **_OpenSource-MIT `Twig`: https://github.com/CouscousPHP/Couscous_** - _Couscous is good._
+
+`4.5` **Yellow: https://datenstrom.se/yellow/** - **_OpenSource-GPL2 `PHP`: https://github.com/datenstrom/yellow_** - _Datenstrom Yellow is for people who make small websites._
+
+`4.6` **Cleaver: https://usecleaver.com** - **_OpenSource-MIT `Blade`: https://github.com/aschmelyun/cleaver_** - _A blazing-fast static site generator using Laravel's Blade templating engine._
+
+`4.7` **Cecil: https://cecil.app** - **_OpenSource-MIT `Twig`: https://github.com/Cecilapp/Cecil_** - _Your content driven static site generator._
+
+`4.8` **Statamic: https://statamic.com** - **_OpenSource-MIT `Twig`: https://github.com/statamic/ssg_** - _The official Statamic Static Site Generator._
+
+`4.9` **Stenope: https://stenopephp.github.io/Stenope/** - **_OpenSource-MIT `Twig`: https://github.com/StenopePHP/Stenope_** - _The static website generator for Symfony developers._
+
 ### 5. Python Framework
 
 ### 6. R Framework
