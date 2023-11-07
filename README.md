@@ -9,6 +9,9 @@
 > - [7. GO Framework](#7-go-framework)
 > - [8. Ruby Framework](#8-ruby-framework)
 > - [9. Rust Framework](#9-rust-framework)
+> - [10. Scala Framework](#10-scala-framework)
+> - [11. Bash Framework](#11-bash-framework)
+> - [12. Swift Framework](#12-swift-framework)
 
 ### 1. Introduction
 A `static site generator` is a tool that generates a full static HTML website based on `raw data` and `a set of templates`. Essentially, a static site generator `automates the task of coding` individual HTML pages and gets those pages ready to serve to users ahead of time. Because these HTML pages are pre-built, they can load very quickly in users' browsers.
@@ -209,9 +212,19 @@ Static site generators are an alternative to `content management systems (CMS)` 
 
 ### 10. Scala Framwork
 
+`10.1` **Hepek: https://sake92.github.io/hepek/** - **_OpenSource-Apache2 `Scala`: https://github.com/sake92/hepek_** - _Hepek is a tool that turns Scala objects into files._
+
 ### 11. Bash Framework
 
+`11.1` **Expose: https://github.com/Jack000/Expose** - **_OpenSource-MIT `HTML`: https://github.com/Jack000/Expose_** - _Expose is a Bash script that turns images and videos in a folder into a photoessay similar to jack.ventures or jack.works (the authors personal blogs)._
+
+`11.2` **bashblog: https://github.com/cfenollosa/bashblog** - **_OpenSource-GPL3 `Bash`: https://github.com/cfenollosa/bashblog_** - _Bashblog was created out of the necessity of a very, very simple way to post entries to a blog by using a public folder [on my server], without any special requirements and dependencies. Works on GNU/Linux, OSX and BSD._
+
 ### 12. Swift Framework
+
+`12.1` **Publish: https://github.com/JohnSundell/Publish** - **_OpenSource-MIT `Markdown`: https://github.com/JohnSundell/Publish_** - _Publish is a static site generator built specifically for Swift developers._
+
+`12.2` **Saga: https://github.com/loopwerk/Saga** - **_OpenSource-MIT `Markdown`: https://github.com/loopwerk/Saga_** - _Saga is a static site generator, written in Swift, allowing you to supply your own metadata types for your items._
 
 ### 13. Perl Framework
 
