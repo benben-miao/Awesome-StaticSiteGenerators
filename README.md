@@ -7,6 +7,7 @@
 > - [5. Python Framework](#5-python-framework)
 > - [6. R Framework](#6-r-framework)
 > - [7. GO Framework](#7-go-framework)
+> - [8. Ruby Framework](#8-ruby-framework)
 
 ### 1. Introduction
 A `static site generator` is a tool that generates a full static HTML website based on `raw data` and `a set of templates`. Essentially, a static site generator `automates the task of coding` individual HTML pages and gets those pages ready to serve to users ahead of time. Because these HTML pages are pre-built, they can load very quickly in users' browsers.
@@ -182,6 +183,22 @@ Static site generators are an alternative to `content management systems (CMS)` 
 `7.6` **Gostatic: https://github.com/piranha/gostatic#speed** - **_OpenSource-ISC `Go`: https://github.com/piranha/gostatic_** - _Gostatic is a static site generator. What differs it from most of other tools is that it's written in Go and tracks changes, which means it should work reasonably fast._
 
 ### 8. Ruby Framework
+
+`8.1` **Jekyll: https://jekyllrb.com** - **_OpenSource-MIT `Liquid`: https://github.com/jekyll/jekyll_** - _Jekyll is a blog-aware static site generator in Ruby._
+
+`8.2` **Slate: https://slatedocs.github.io/slate/** - **_OpenSource-Apache2 `Markdown`: https://github.com/slatedocs/slate_** - _Beautiful static documentation for your API._
+
+`8.3` **Middleman: http://middlemanapp.com** - **_OpenSource-MIT `ERB`: https://github.com/middleman/middleman_** - _Middleman is a static site generator using all the shortcuts and tools in modern web development._
+
+`8.4` **Nanoc: http://nanoc.ws** - **_OpenSource-MIT `ERB`: https://github.com/nanoc/nanoc_** - _A powerful web publishing system._
+
+`8.5` **Octopress: http://octopress.org** - **_OpenSource-MIT `Liquid`: https://github.com/octopress/octopress_** - _Octopress 3.0 – Jekyll's Ferrari._
+
+`8.6` **Bridgetown: https://www.bridgetownrb.com** - **_OpenSource-MIT `Liquid`: https://github.com/bridgetownrb/bridgetown_** - _A next-generation progressive site generator & fullstack framework, powered by Ruby._
+
+`8.7` **Awestruct: http://awestruct.org** - **_OpenSource-MIT `Haml`: https://github.com/awestruct/awestruct_** - _Awestruct is a framework for creating static HTML sites, inspired by the Jekyll utility in the same genre._
+
+`8.7` **Awestruct: http://awestruct.org** - **_OpenSource-MIT `Haml`: https://github.com/awestruct/awestruct_** - _Awestruct is a framework for creating static HTML sites, inspired by the Jekyll utility in the same genre._
 
 ### 9. Rust Framework
 
