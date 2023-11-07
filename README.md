@@ -4,6 +4,8 @@
 > - [2. JavaScript Framework](#2-javascript-framework)
 > - [3. Typescript Framework](#3-typescript-framework)
 > - [4. PHP Framework](#4-php-framework)
+> - [5. Python Framework](#5-python-framework)
+> - [6. R Framework](#6-r-framework)
 
 ### 1. Introduction
 A `static site generator` is a tool that generates a full static HTML website based on `raw data` and `a set of templates`. Essentially, a static site generator `automates the task of coding` individual HTML pages and gets those pages ready to serve to users ahead of time. Because these HTML pages are pre-built, they can load very quickly in users' browsers.
@@ -155,6 +157,14 @@ Static site generators are an alternative to `content management systems (CMS)` 
 `5.10` **teedoc: https://teedoc.github.io** - **_OpenSource-MIT `Markdown`: https://github.com/teedoc/teedoc_** - _wiki and multi docs friendly static document site generator(doc generator), convert markdown and jupyter notebook to html website._
 
 ### 6. R Framework
+
+`6.1` **Bookdown: https://bookdown.org** - **_OpenSource-GPL3 `Rmarkdown`: https://github.com/rstudio/bookdown_** - _Authoring Books and Technical Documents with R Markdown._
+
+`6.2` **R Markdown: https://rmarkdown.rstudio.com** - **_OpenSource-GPL3 `Rmarkdown`: https://github.com/rstudio/rmarkdown_** - _The rmarkdown package helps you create dynamic analysis documents that combine code, rendered output (such as figures), and prose._
+
+`6.3` **Blogdown: https://bookdown.org/yihui/blogdown** - **_OpenSource-GPL3 `Rmarkdown`: https://github.com/rstudio/blogdown_** - _An open-source (GPL-3) R package to generate static websites based on R Markdown and Hugo._
+
+`6.4` **PkgDown: https://pkgdown.r-lib.org** - **_OpenSource-GPL3 `Rmarkdown`: https://github.com/r-lib/pkgdown_** - _Generate static html documentation for an R package._
 
 ### 7. GO Framework
 
