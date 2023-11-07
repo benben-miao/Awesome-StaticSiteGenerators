@@ -1,7 +1,9 @@
 ## Awesome of Static Site Generators.
 
 > - [1. Introduction](#1-introduction)
-> - [2. JavaScript](#2-javascript-framework)
+> - [2. JavaScript Framework](#2-javascript-framework)
+> - [3. Typescript Framework](#3-typescript-framework)
+> - [4. PHP Framework](#4-php-framework)
 
 ### 1. Introduction
 A `static site generator` is a tool that generates a full static HTML website based on `raw data` and `a set of templates`. Essentially, a static site generator `automates the task of coding` individual HTML pages and gets those pages ready to serve to users ahead of time. Because these HTML pages are pre-built, they can load very quickly in users' browsers.
