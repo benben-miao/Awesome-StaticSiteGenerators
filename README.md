@@ -6,6 +6,7 @@
 > - [4. PHP Framework](#4-php-framework)
 > - [5. Python Framework](#5-python-framework)
 > - [6. R Framework](#6-r-framework)
+> - [7. GO Framework](#7-go-framework)
 
 ### 1. Introduction
 A `static site generator` is a tool that generates a full static HTML website based on `raw data` and `a set of templates`. Essentially, a static site generator `automates the task of coding` individual HTML pages and gets those pages ready to serve to users ahead of time. Because these HTML pages are pre-built, they can load very quickly in users' browsers.
@@ -167,6 +168,18 @@ Static site generators are an alternative to `content management systems (CMS)` 
 `6.4` **PkgDown: https://pkgdown.r-lib.org** - **_OpenSource-GPL3 `Rmarkdown`: https://github.com/r-lib/pkgdown_** - _Generate static html documentation for an R package._
 
 ### 7. GO Framework
+
+`7.1` **Hugo: https://gohugo.io** - **_OpenSource-Apache2 `Go`: https://github.com/gohugoio/hugo_** - _Hugo is a static site generator written in Go. It is optimized for speed, easy use and configurability. Hugo takes a directory with content and templates and renders them into a full html website._
+
+`7.2` **Docsy: https://www.docsy.dev** - **_OpenSource-Apache2 `Go`: https://github.com/google/docsy_** - _Docsy is a pre-configured Hugo theme that provides the core features and behaviors needed to create a technical documentation site._
+
+`7.3` **InkPaper: https://imeoer.github.io** - **_OpenSource-MIT `Go`: https://github.com/InkProject/ink_** - _An elegant static blog generator, powered by Golang._
+
+`7.4` **Plenti: https://plenti.co** - **_OpenSource-Apache2 `Svelte`: https://github.com/plentico/plenti_** - _Static Site Generator with Go backend and Svelte frontend._
+
+`7.5` **Gostatic: https://github.com/piranha/gostatic#speed** - **_OpenSource-ISC `Go`: https://github.com/piranha/gostatic_** - _Gostatic is a static site generator. What differs it from most of other tools is that it's written in Go and tracks changes, which means it should work reasonably fast._
+
+`7.6` **Gostatic: https://github.com/piranha/gostatic#speed** - **_OpenSource-ISC `Go`: https://github.com/piranha/gostatic_** - _Gostatic is a static site generator. What differs it from most of other tools is that it's written in Go and tracks changes, which means it should work reasonably fast._
 
 ### 8. Ruby Framework
 
