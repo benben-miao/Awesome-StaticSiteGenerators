@@ -146,6 +146,14 @@ Static site generators are an alternative to `content management systems (CMS)` 
 
 `5.6` **Frozen-Flask: https://pythonhosted.org/Frozen-Flask/** - **_OpenSource-BSD3 `Jinja2`: https://github.com/Frozen-Flask/Frozen-Flask_** - _Frozen-Flask freezes a Flask application into a set of static files. It works by simulating requests at the WSGI level and writing the responses to aptly named files._
 
+`5.7` **Grow: https://grow.io** - **_OpenSource-MIT `Jinja2`: https://github.com/grow/grow_** - _A declarative website generator designed for high-quality websites, with a focus on easy maintenance and localization._
+
+`5.8` **Grow: https://grow.io** - **_OpenSource-MIT `Jinja2`: https://github.com/grow/grow_** - _A declarative website generator designed for high-quality websites, with a focus on easy maintenance and localization._
+
+`5.9` **Hastie: https://mkaz.github.io/hastie** - **_OpenSource-MIT `Jinja2`: https://github.com/mkaz/hastie_** - _A static site generator in Python._
+
+`5.10` **teedoc: https://teedoc.github.io** - **_OpenSource-MIT `Markdown`: https://github.com/teedoc/teedoc_** - _wiki and multi docs friendly static document site generator(doc generator), convert markdown and jupyter notebook to html website._
+
 ### 6. R Framework
 
 ### 7. GO Framework
