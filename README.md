@@ -8,6 +8,7 @@
 > - [6. R Framework](#6-r-framework)
 > - [7. GO Framework](#7-go-framework)
 > - [8. Ruby Framework](#8-ruby-framework)
+> - [9. Rust Framework](#9-rust-framework)
 
 ### 1. Introduction
 A `static site generator` is a tool that generates a full static HTML website based on `raw data` and `a set of templates`. Essentially, a static site generator `automates the task of coding` individual HTML pages and gets those pages ready to serve to users ahead of time. Because these HTML pages are pre-built, they can load very quickly in users' browsers.
@@ -199,6 +200,12 @@ Static site generators are an alternative to `content management systems (CMS)` 
 `8.7` **Awestruct: http://awestruct.org** - **_OpenSource-MIT `Haml`: https://github.com/awestruct/awestruct_** - _Awestruct is a framework for creating static HTML sites, inspired by the Jekyll utility in the same genre._
 
 ### 9. Rust Framework
+
+`9.1` **mdBook: https://github.com/rust-lang/mdBook** - **_OpenSource-MPL2 `Markdown`: https://github.com/rust-lang/mdBook_** - _Create book or documentation from markdown files as with GitBook._
+
+`9.2` **Zola: https://www.getzola.org** - **_OpenSource-MIT `Tera`: https://github.com/getzola/zola_** - _A fast static site generator in a single binary with everything built-in._
+
+`9.3` **Cobalt: https://cobalt-org.github.io** - **_OpenSource-MIT `Liquid`: https://github.com/cobalt-org/cobalt.rs_** - _Static site generator written in Rust._
 
 ### 10. Scala Framwork
 
