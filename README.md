@@ -12,6 +12,9 @@
 > - [10. Scala Framework](#10-scala-framework)
 > - [11. Bash Framework](#11-bash-framework)
 > - [12. Swift Framework](#12-swift-framework)
+> - [13. Perl Framework](#13-perl-framework)
+> - [14. Julia Framework](#14-julia-framework)
+> - [15. C, C++, C#, F#, DotNet](#15-c-c++-c#-f#-dotnet)
 
 ### 1. Introduction
 A `static site generator` is a tool that generates a full static HTML website based on `raw data` and `a set of templates`. Essentially, a static site generator `automates the task of coding` individual HTML pages and gets those pages ready to serve to users ahead of time. Because these HTML pages are pre-built, they can load very quickly in users' browsers.
@@ -228,8 +231,26 @@ Static site generators are an alternative to `content management systems (CMS)` 
 
 ### 13. Perl Framework
 
+`13.1` **tumblelog: http://johnbokma.com/articles/tumblelog/** - **_OpenSource-MIT `HTML`: https://github.com/john-bokma/tumblelog_** - _tumblelog is a simple static site generator with the focus on generating a rich and complete tumblelog or micro blog with various ways to navigate to archived blog posts._
+
+`13.2` **Plerd: http://jmac.org/plerd/** - **_OpenSource-MIT `TT2`: https://github.com/jmacdotorg/plerd_** - _Plerd is a minimalist blogging platform for people who love writing with Markdown using their favorite text editors, and who wish to host their own blogs as simple, attractive, static websites wholly under their own control._
+
 ### 14. Julia Framework
 
-### 15. C, C++, C#, F#
+`14.1` **Franklin: https://franklinjl.org** - **_OpenSource-MIT `Julia`: https://github.com/tlienart/Franklin.jl_** - _Franklin is a simple, customisable static site generator oriented towards technical blogging and light, fast-loading pages._
 
-### 16. DotNet
+### 15. C, C++, C#, F#, DotNet
+
+`15.1` **blogc: https://blogc.rgm.io** - **_OpenSource-BSD3 `Custom`: https://github.com/blogc/blogc_** - _blogc is a blog compiler._
+
+`15.2` **DocFX: https://dotnet.github.io/docfx** - **_OpenSource-MIT `Liquid`: https://github.com/dotnet/docfx_** - _DocFX is an API documentation generator for .NET, and currently it supports C# and VB._
+
+`15.3` **BookGen: https://github.com/webmaster442/BookGen** - **_OpenSource-MIT `HTML`: https://github.com/webmaster442/BookGen_** - _BookGen is a command line toolchain for writing books and documentation in markdown. It was inspired by GitBook._
+
+`15.4` **Record Collector: https://record-collector.net/en/** - **_OpenSource-MIT `Markdown`: https://github.com/krompaco/record-collector_** - _This project is heavily inspired by Hugo and tries to be somewhat compatible with the same content structure and support parsing of TOML, YAML and JSON front matter._
+
+`15.5` **Nift: https://nift.dev** - **_OpenSource-MIT `Custom`: https://github.com/nifty-site-manager/nsm_** - _Nift, short for nifty site manager, is a cross-platform open source git-like and LaTeX-like site manager._
+
+`15.6` **Statiq: https://statiq.dev/web/** - **_OpenSource-MIT `Markdown`: https://github.com/statiqdev/Statiq.Web_** - _Statiq Web is a powerful static web site generation toolkit suitable for most use cases. It's built on top of Statiq Framework so you can always extend or customize it beyond those base capabilities as well._
+
+`15.7` **Wyam: http://wyam.io** - **_OpenSource-MIT `Markdown`: https://github.com/Wyamio/Wyam_** - _Wyam is a static content generator and can be used to generate web sites, produce documentation, create ebooks, and much more. Since everything is configured by chaining together flexible modules (that you can even write yourself), the only limits to what it can create are your imagination._
